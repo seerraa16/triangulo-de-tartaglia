@@ -18,4 +18,4 @@ def calcular_coeficientes_binomiales(n):
         for j in range(i+1):
             print(triangulo[i][j], end=" ")
         print()
-calcular_coeficientes_binomiales(5)
+calcular_coeficientes_binomiales(12)
